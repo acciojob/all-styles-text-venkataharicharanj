@@ -1,16 +1,15 @@
 
 /* Your CSS Code here. */
 .container{
-    color:white;
-    background-color: purple;
+    color:rgb(255, 255, 255);
+    background-color: rgb(128, 0, 128);
     width: 200px;
     padding: 10px;
     font-size: 20px;
-/* 	border: red: 
 	border-left-style:solid;
     border-left-width: 5px ;
-    border-left-color: green;*/
-	border-left:5px green solid;
+    border-left-color: rgb(0, 128, 0);
+/*	border-left:5px green solid;*/
 	
 
 }
